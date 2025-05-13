@@ -4,7 +4,7 @@
 
 🎓 **Education**:
 
-* \ Undergraduate, The Chinese University of Hong Kong, Shenzhen, Computer Science, 2022 – 2026
+* \Undergraduate, The Chinese University of Hong Kong, Shenzhen, Computer Science, 2022 – 2026
 
 💡 **Interests**:
 
