@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm \Li Yuanshuai
+## 👋 Hi there, I'm Li Yuanshuai
 
 📫 **Email**: 122090293@link.cuhk.edu.cn
 
