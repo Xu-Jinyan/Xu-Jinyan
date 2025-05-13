@@ -1,15 +1,15 @@
-## 👋 Hi there, I'm \[Li Yuanshuai]
+## 👋 Hi there, I'm \Li Yuanshuai
 
-📫 **Email**: \[[122090293@link.cuhk.edu.cn]]
+📫 **Email**: 122090293@link.cuhk.edu.cn
 
 🎓 **Education**:
 
-* \[The Chinese University of Hong Kong, Shenzhen], \[Computer Science], \[2022] – \[2026]
+* \ Undergraduate, The Chinese University of Hong Kong, Shenzhen, Computer Science, 2022 – 2026
 
 💡 **Interests**:
 
-* \[LLM]
-* \[Reinforcement Learning]
+* LLM
+* Reinforcement Learning
 
 ---
 
